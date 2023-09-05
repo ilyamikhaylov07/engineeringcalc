@@ -1,0 +1,112 @@
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\MainWindow.g.cs
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\App.g.cs
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki_MarkupCompile.cache
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki_MarkupCompile.lref
+C:\Users\Илья\source\repos\testiki\testiki\bin\Debug\testiki.exe.config
+C:\Users\Илья\source\repos\testiki\testiki\bin\Debug\testiki.exe
+C:\Users\Илья\source\repos\testiki\testiki\bin\Debug\testiki.pdb
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\MainWindow.baml
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki.g.resources
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki.Properties.Resources.resources
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki.exe
+C:\Users\Илья\source\repos\testiki\testiki\obj\Debug\testiki.pdb
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki.csproj.AssemblyReference.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\App.g.cs
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki_MarkupCompile.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki_MarkupCompile.lref
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki.exe
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki.pdb
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\bin\Debug\testiki.exe.config
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\bin\Debug\testiki.exe
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\bin\Debug\testiki.pdb
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\MainWindow.baml
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki.g.resources
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki.Properties.Resources.resources
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki.csproj.GenerateResource.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki\testiki\obj\Debug\testiki.csproj.CoreCompileInputs.cache
+E:\testiki\testiki\bin\Debug\testiki.exe.config
+E:\testiki\testiki\bin\Debug\testiki.exe
+E:\testiki\testiki\bin\Debug\testiki.pdb
+E:\testiki\testiki\obj\Debug\testiki.csproj.AssemblyReference.cache
+E:\testiki\testiki\obj\Debug\testiki.csproj.SuggestedBindingRedirects.cache
+E:\testiki\testiki\obj\Debug\MainWindow.g.cs
+E:\testiki\testiki\obj\Debug\App.g.cs
+E:\testiki\testiki\obj\Debug\testiki_MarkupCompile.cache
+E:\testiki\testiki\obj\Debug\testiki_MarkupCompile.lref
+E:\testiki\testiki\obj\Debug\MainWindow.baml
+E:\testiki\testiki\obj\Debug\testiki.g.resources
+E:\testiki\testiki\obj\Debug\testiki.Properties.Resources.resources
+E:\testiki\testiki\obj\Debug\testiki.csproj.GenerateResource.cache
+E:\testiki\testiki\obj\Debug\testiki.csproj.CoreCompileInputs.cache
+E:\testiki\testiki\obj\Debug\testiki.exe
+E:\testiki\testiki\obj\Debug\testiki.pdb
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\bin\Debug\testiki.exe.config
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\bin\Debug\testiki.exe
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\bin\Debug\testiki.pdb
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki.csproj.AssemblyReference.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\MainWindow.g.cs
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\App.g.cs
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki_MarkupCompile.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki_MarkupCompile.lref
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\MainWindow.baml
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki.g.resources
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki.Properties.Resources.resources
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki.csproj.GenerateResource.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki.csproj.CoreCompileInputs.cache
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki.exe
+C:\Users\Егор\OneDrive\Рабочий стол\лабы\testiki1\testiki\obj\Debug\testiki.pdb
+E:\testiki2\testiki\bin\Debug\testiki.exe.config
+E:\testiki2\testiki\bin\Debug\testiki.exe
+E:\testiki2\testiki\bin\Debug\testiki.pdb
+E:\testiki2\testiki\obj\Debug\testiki.csproj.AssemblyReference.cache
+E:\testiki2\testiki\obj\Debug\testiki.csproj.SuggestedBindingRedirects.cache
+E:\testiki2\testiki\obj\Debug\MainWindow.g.cs
+E:\testiki2\testiki\obj\Debug\App.g.cs
+E:\testiki2\testiki\obj\Debug\testiki_MarkupCompile.cache
+E:\testiki2\testiki\obj\Debug\testiki_MarkupCompile.lref
+E:\testiki2\testiki\obj\Debug\MainWindow.baml
+E:\testiki2\testiki\obj\Debug\testiki.g.resources
+E:\testiki2\testiki\obj\Debug\testiki.Properties.Resources.resources
+E:\testiki2\testiki\obj\Debug\testiki.csproj.GenerateResource.cache
+E:\testiki2\testiki\obj\Debug\testiki.csproj.CoreCompileInputs.cache
+E:\testiki2\testiki\obj\Debug\testiki.exe
+E:\testiki2\testiki\obj\Debug\testiki.pdb
+D:\Прикладное программирование\testiki2\testiki\bin\Debug\testiki.exe.config
+D:\Прикладное программирование\testiki2\testiki\bin\Debug\testiki.exe
+D:\Прикладное программирование\testiki2\testiki\bin\Debug\testiki.pdb
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki.csproj.AssemblyReference.cache
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki.csproj.SuggestedBindingRedirects.cache
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\MainWindow.g.cs
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\App.g.cs
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki_MarkupCompile.cache
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki_MarkupCompile.lref
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\MainWindow.baml
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki.g.resources
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki.Properties.Resources.resources
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki.csproj.GenerateResource.cache
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki.csproj.CoreCompileInputs.cache
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki.exe
+D:\Прикладное программирование\testiki2\testiki\obj\Debug\testiki.pdb
+D:\ТПП\cursovay\testiki2\testiki\bin\Debug\testiki.exe.config
+D:\ТПП\cursovay\testiki2\testiki\bin\Debug\testiki.exe
+D:\ТПП\cursovay\testiki2\testiki\bin\Debug\testiki.pdb
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki.csproj.AssemblyReference.cache
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki.csproj.SuggestedBindingRedirects.cache
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\MainWindow.g.cs
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\App.g.cs
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki_MarkupCompile.cache
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki_MarkupCompile.lref
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\MainWindow.baml
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki.g.resources
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki.Properties.Resources.resources
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki.csproj.GenerateResource.cache
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki.csproj.CoreCompileInputs.cache
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki.exe
+D:\ТПП\cursovay\testiki2\testiki\obj\Debug\testiki.pdb
